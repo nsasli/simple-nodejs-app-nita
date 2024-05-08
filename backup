@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo -u postgres pg_dumpall > /opt/oss/data/backups/backup.sql
+
