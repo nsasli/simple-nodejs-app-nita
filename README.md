@@ -3,6 +3,7 @@
 Summary:
 
 Objective: Prepare a simple Node.js application named "oss" on an Ubuntu-based environment with Nginx and PostgreSQL.
+
 Steps:
 Create a directory named "oss" and add necessary files: server.js, package.json, and bash scripts (start, stop, backup).
 Develop a Dockerfile to containerize the Node.js application.
